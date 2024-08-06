@@ -1,0 +1,9 @@
+{
+    "found_button": true,
+    "pressed_button": false,
+    "found_flag": false,
+    "captured_flag": false,
+    "ml_mode": false,
+    "hash_value": "3fd9ea2a00fba5b06f479e5dd483beceb8051c42fe5eece35c93039b6ff70596",
+    "timestamp": "12:38:29+0000"
+}
